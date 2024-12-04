@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/@chalana46823197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@chalana46823197" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chalana dilshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chalana dilshan" height="30" width="40" /></a>
-<a href="https://fb.com/chalana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chalana" height="30" width="40" /></a>
+<a href="https://fb.com/chalana.dilshan.399" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chalana" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
