@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C**
 
-- 💬 Ask me about **HTML,CSS,SQL,C,Python,java**
+- 💬 Ask me about **HTML ,CSS ,SQL ,C ,Python ,java**
 
 - 📫 How to reach me **chalanadilshanrcc@gmail.com**
 
