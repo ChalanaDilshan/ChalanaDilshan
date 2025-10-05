@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently Undergraduate **at SEUSL for BICT(Hons)**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **java**
 
 - 💬 Ask me about **HTML ,CSS ,SQL ,C ,Python ,java**
 
