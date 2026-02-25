@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi,%20I'm%20Chalana%20Dilshan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Passionate%20ICT%20Undergraduate%20%7C%20Java%20Developer&descAlignY=51&descAlign=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Chalana%20Dilshan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Passionate%20ICT%20Undergraduate%20%7C%20Java%20Developer&descAlignY=51&descAlign=62" width="100%" />
 </div>
 
 <h3 align="center">
@@ -63,17 +63,26 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chalanadilshan&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chalanadilshan&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph"  />
-</div>
+<p align="center">
+  <a href="https://github.com/chalanadilshan">
+    <img src="https://github-readme-stats.vercel.app/api?username=ChalanaDilshan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Chalana's GitHub stats" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chalanadilshan&theme=tokyonight&hide_border=true" alt="streak graph" />
-</div>
+<p align="center">
+  <a href="https://github.com/chalanadilshan">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChalanaDilshan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/chalanadilshan">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChalanaDilshan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 
 ---
 <div align="center">
   <small>Visitor Count</small><br>
-  <img src="https://profile-counter.glitch.me/chalanadilshan/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=chalanadilshan&style=flat-square&color=blueviolet" alt="Visitor Count" />
 </div>
