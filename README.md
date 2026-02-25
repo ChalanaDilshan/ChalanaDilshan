@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi,%20I'm%20Chalana%20Dilshan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Passionate%20ICT%20Undergraduate%20%7C%20Java%20Developer&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi,%20I'm%20Chalana%20Dilshan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Passionate%20ICT%20Undergraduate%20%7C%20Java%20Developer&descAlignY=51&descAlign=62" width="100%" />
 </div>
 
 <h3 align="center">
@@ -54,6 +54,8 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 
 </div>
 
