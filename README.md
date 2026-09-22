@@ -17,7 +17,7 @@
 
 <div align="center">
 
-### 🎯 Open to: Internships & Entry-Level Roles in Cloud, DevOps & Software Engineering
+###  Open to: Internships & Entry-Level Roles in Cloud, DevOps 
 
 </div>
 
@@ -146,10 +146,10 @@ I'm an **Information & Communication Technology (Hons)** undergraduate at the **
 
 ## 🎯 What I'm Looking For
 
-- 🚀 Internship or entry-level opportunities in **Cloud Engineering, DevOps, or Software Development**
-- 🤝 Collaborations on **open-source cloud/AI tooling** and student-led tech projects
-- 📚 Mentorship from professionals in **AWS/Azure architecture** and **backend engineering**
-- 🎤 Opportunities to speak at or organize **student tech workshops & bootcamps**
+-  Internship or entry-level opportunities in **Cloud Engineering, DevOps, or Software Development**
+-  Collaborations on **open-source cloud/AI tooling** and student-led tech projects
+-  Mentorship from professionals in **AWS/Azure architecture** and **backend engineering**
+-  Opportunities to speak at or organize **student tech workshops & bootcamps**
 
 <br/>
 
@@ -190,18 +190,6 @@ I'm an **Information & Communication Technology (Hons)** undergraduate at the **
 </div>
 
 <br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ChalanaDilshan/ChalanaDilshan/output/github-contribution-grid-snake.svg" width="100%"/>
-
-<sub>⚙️ Powered by <a href="https://github.com/Platane/snk">Platane/snk</a> — add the workflow below to activate</sub>
-
-</div>
-
-> 💡 **To enable the snake animation:** add the [`snk` GitHub Action](https://github.com/Platane/snk) to this repo's workflows. It auto-generates the SVG above from your contribution graph.
 
 <br/>
 
